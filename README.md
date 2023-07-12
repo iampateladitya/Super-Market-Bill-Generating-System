@@ -1,1 +1,3 @@
 # Super-Market-Bill-Generating-System
+
+This project is a Super Market Bill Generating System implemented in C++. It provides a command-line interface for generating bills for items purchased at a super market. The system allows the user to input product details such as name, quantity, and price, and then generates a bill displaying the details of each item, along with the total amount. The code is structured using classes and utilizes vectors for storing product information. It also includes a timestamp feature to record the shopping date. This project serves as a simple and practical example for beginners learning C++ programming and demonstrates the use of basic control structures, data structures, and input/output operations.
